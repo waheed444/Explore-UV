@@ -60,7 +60,7 @@
 
 ## Installing `uv`
 
-### Option 3: Using `pip` (Temporary, for Migration)
+### Using `pip` (Temporary, for Migration)
 
 If you need to install `uv` in a Python environment:
 
